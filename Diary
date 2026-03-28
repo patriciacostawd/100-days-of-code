@@ -3,6 +3,96 @@ Challenge freeCodeCamp "Responsive Web Design"
 I am working towards becoming a full-stack developer. Currently revisiting the basics of HTML, CSS, and JavaScript, following the FreeCodeCamp course roadmap, and building projects to enhance my skills in web development.
 
 HTML
-Day 1 (24/03/2026): 1h30 I stop on the step "Build a bookstore page"
-Day 2 (25/03/2026): 2h I stop on the step "Work with the iframe element"
-Day 3 (26/03/2026): 
+📅 Daily Log
+
+Day 1 – 24/03/2026
+Time spent: 1h30
+
+Topic: HTML Basics
+
+What I learned:
+
+Basic page structure (<!DOCTYPE>, <html>, <head>, <body>)
+
+Headings (<h1> to <h6>) and paragraphs (<p>)
+
+Lists (ordered and unordered)
+
+Semantic elements (<header>, <nav>, <main>, <footer>)
+
+Project: Built a simple bookstore page
+
+Challenges: Understanding the difference between block and inline elements
+
+Next step: Continue with forms and media elements
+
+_______________________________________________
+Day 2 – 25/03/2026
+Time spent: 2h
+
+Topic: HTML – Working with iframes
+
+What I learned:
+
+How to embed external content using <iframe>
+
+Attributes: src, width, height, title, loading="lazy"
+
+Security considerations (sandbox attribute, CSP)
+
+Responsive iframe embedding
+
+Project: Embedded YouTube videos and external pages
+
+Challenges: Making iframes responsive across different screen sizes
+
+Next step: Learn about video and audio elements
+
+____________________________________________________________________________________
+Day 3 – 26/03/2026
+Time spent: 2h 
+
+Topic: HTML – Video and Audio
+
+What I learned:
+
+Embedding videos with <video> tag
+
+Attributes: controls, autoplay, loop, muted, poster
+
+Multiple sources with <source> for browser compatibility
+
+Embedding audio with <audio> tag
+
+Accessibility: adding transcripts and captions
+
+Project: Built a video compilation page
+
+Challenges: Understanding different video formats (MP4, WebM, OGG)
+
+____________________________________________________________________________________
+## Day 4 – 28/03/2026
+
+**Time spent:** 2h  
+**Progress:** Step 137/302 Basic HTML (freeCodeCamp)
+
+### What I learned:
+- **Working with links (theory)**: `<a>` tags, `href` attributes, link states (`:hover`, `:visited`)
+- **Basic HTML review**: Semantic elements, structure recap, best practices
+- **Basic HTML quiz**: Testing understanding of HTML fundamentals
+
+### Project:
+- Completed HTML theory review and quiz assessment
+
+### Challenges:
+- Consolidating all Basic HTML concepts before moving to CSS
+- Ensuring understanding of link behaviour and semantic HTML
+
+________________________________________________________________________________________
+
+
+
+
+
+
+
