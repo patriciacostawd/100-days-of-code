@@ -1,91 +1,138 @@
-# 🔍 365 Days of Code: Full Stack → Cybersecurity → Digital Forensics
+# 365 Days of Cybersecurity & Digital Forensics
 
-**Patrícia Costa**  
-MSc Forensic Sciences · Computer Engineering (interrupted, self-directed track)  
-
-I am combining a solid foundation in full‑stack web development with cybersecurity and digital forensics, aiming to work as a Digital Forensics Analyst in a cybercrime context.
+> **Patrícia Costa** | MSc Forensic Sciences (FMUP) | [LinkedIn](your-link) | [GitHub](https://github.com/patriciacostawd)
 
 ---
 
-# 365 Days of Code: Full Stack Foundations → Cybersecurity → Digital Forensics
+## 🎯 Objective
 
-I am using this repository to document my learning journey in programming, cybersecurity, and digital forensics.
+Document my daily learning journey in **cybersecurity and digital forensics**, with the goal of working as a **Digital Forensics Analyst** in a cybercrime context.
 
-At the moment, I am revisiting core web development concepts through the freeCodeCamp curriculum, while also studying cybersecurity through the Cisco Junior Cybersecurity Analyst path.
-
-My long-term goal is to combine software development skills with my background in Forensic Sciences and work in digital forensics while also developing useful applications.
+I combine a solid background in **Forensic Sciences** (ongoing MSc) with technical skills in **information security, networking, Linux, and digital investigation**, creating a specialized profile for digital forensic analysis.
 
 ---
 
-## Progress Overview
+## 📊 Current Progress
 
-| Phase | Status | Days (goal) | Focus |
-|-------|--------|-------------|-------|
-| Full Stack Foundations | In progress | 4 / 180 | freeCodeCamp Responsive Web Design |
-| Cybersecurity Basics | Started | 0 / 180 | Cisco Junior Cybersecurity Analyst |
-| Digital Forensics | Planned | 0 / 180 | DFIR fundamentals, OSINT, tools, and case-based practice |
+| Area | Status | Days (goal) | Main Focus | Progress |
+|------|--------|-------------|------------|----------|
+| **Cybersecurity Fundamentals** | 🟢 In progress | 0 / 180 | Cisco Junior Analyst | 0% |
+| **Digital Forensics** | 🟡 Planned | 0 / 180 | DFIR + OSINT + Tools | — |
 
-This repository documents my daily and weekly progress, projects, notes, and self-directed training in software development, cybersecurity, and digital forensics.
+**Current day:** #5 (March 30, 2026)  
+**Commitment:** 1h30/day, 6 days/week
+
 
 ---
 
-## Phase 1 – Full Stack Foundations
+## 🔒 Phase 1 – Cybersecurity Fundamentals (180 days) ⭐ PRIORITY
 
-I am currently working through the freeCodeCamp curriculum to refresh and strengthen my web development foundations.
+**Status:** In progress (Day 0/180)  
+**Time commitment:** 1h30/day, 6 days/week  
+**Objective:** Develop solid technical skills in information security to support specialization in Digital Forensics.
 
-This is not my first contact with programming. I already have previous training in advanced programming techniques, logic, and programming fundamentals, so this phase is mainly focused on revising concepts, practising consistently, and building a visible learning record on GitHub.
+### Main Training
 
-### Current path
-- Responsive Web Design Certification
-- JavaScript Certification
-- Front-End Development Libraries Certification
-- Python Certification
-- Relational Databases Certification
-- Back-End Development and APIs Certification
-- Certified Full-Stack Developer Curriculum
+- [ ] **Cisco Junior Cybersecurity Analyst** — *Starting*
+  - Introduction to Cybersecurity
+  - Networking Basics & Network Security
+  - Security Concepts & Threat Analysis
+  - OS Fundamentals (Linux + Windows)
+  - Monitoring & Incident Detection
+  - Security Tools & Analytical Thinking
+
+### Complementary Skills
+
+- [ ] **Linux Essentials** (LPI or Cisco)
+  - Command line fluency
+  - File systems and permissions
+  - Process management
+  - Basic shell scripting
+
+- [ ] **Python for Security**
+  - Scripting for automation
+  - Parsing logs and files
+  - Automation of forensic tasks
+
+- [ ] **Networking Fundamentals**
+  - TCP/IP, DNS, HTTP/HTTPS
+  - Firewalls, routers, switches
+  - Packet analysis (Wireshark)
 
 ### Goals for this phase
-- Refresh core concepts in HTML, CSS, JavaScript, Python, and databases.
-- Build and document projects developed during the courses.
-- Use Git and GitHub consistently with meaningful commits and progress logs.
-- Create a solid technical base for future work in cybersecurity and digital forensics.
+
+- [ ] Complete Cisco Junior Cybersecurity Analyst (100%)
+- [ ] Master Linux command line for forensics
+- [ ] Build and document 5+ hands-on labs on GitHub
+- [ ] Establish consistent study routine
+- [ ] Understand threats, vulnerabilities, and attack vectors
+
+### Planned Labs
+
+| Lab | Description | Status |
+|-----|-------------|--------|
+| Network Analysis with Wireshark | Traffic capture and analysis | ⏳ Planned |
+| Linux Hardening | Secure Linux system configuration | ⏳ Planned |
+| Python Log Parser | Script for security log analysis | ⏳ Planned |
 
 ---
 
-## Phase 2 – Cybersecurity Basics
+## 🔍 Phase 2 – Digital Forensics (180 days)
 
-Alongside programming, I am also studying cybersecurity through the Cisco Junior Cybersecurity Analyst path.
+**Status:** Planned (start: September 2026)  
+**Objective:** Specialize in digital forensic investigation, combining my MSc in Forensic Sciences with technical skills.
 
-This phase is important because it helps me build the technical security knowledge that will later support my transition into digital forensics.
+### Study Areas
 
-### Main areas of focus
-- Networking basics and network security
-- Security concepts and threat analysis
-- Operating system fundamentals
-- Monitoring and incident detection
-- Security tools and analytical thinking
+- [ ] **Digital Evidence Fundamentals**
+  - Chain of custody
+  - Forensic methodology
+  - Case documentation and reporting
 
-### Current training
-- Cisco Junior Cybersecurity Analyst
+- [ ] **Disk and File Analysis**
+  - File systems (NTFS, FAT, ext4)
+  - Deleted file recovery
+  - Timeline analysis
+  - Metadata extraction
+
+- [ ] **OSINT (Open Source Intelligence)**
+  - Online investigation
+  - Social media analysis
+  - Digital footprint tracking
+
+- [ ] **DFIR Tools**
+  - Autopsy (disk analysis)
+  - FTK Imager (imaging)
+  - Wireshark (network forensics)
+  - Volatility (memory forensics)
+  - Bulk Extractor
+
+- [ ] **Practical Cases**
+  - Cybercrime investigations
+  - Incident response simulations
+  - Mock cases with full documentation
+
+### Learning Resources
+
+- [ ] OpenLearn – Digital Forensics
+- [ ] Alison – Introduction to Digital Forensics
+- [ ] TryHackMe – Cyber Defense & DFIR rooms
+- [ ] SANS Forensics Blog & Whitepapers
+- [ ] NIST Digital Forensics Resources
 
 ---
 
-## Phase 3 – Digital Forensics
+## 📂 Featured Projects
 
-This is my long-term direction.
+| Project | Description | Technologies | Status |
+|---------|-----------|--------------|--------|
+| **CyberSecurity Events Hub** | HTML page with cybersecurity events | HTML5 | ✅ Completed |
+| _Wireshark Lab_ | Network traffic capture and analysis | Wireshark | ⏳ Planned |
+| _Python Log Analyzer_ | Script for security log parsing | Python | ⏳ Planned |
+| _OSINT Investigation_ | Practical online investigation case | OSINT tools | ⏳ Planned |
 
-Once I have reinforced my technical foundations in development and cybersecurity, I want to focus more deeply on digital forensics and incident response, connecting those skills with my MSc background in Forensic Sciences.
+---
 
-### Planned areas of study
-- Digital evidence fundamentals
-- Chain of custody and forensic methodology
-- OSINT and online investigations
-- Basic disk, file, and timeline analysis
-- Reporting and case documentation
-- Introduction to forensic tools and workflows
+*"Digital forensic investigation requires dual competence: rigorous forensic knowledge (MSc) + solid technical skills (cybersecurity). This repository documents the building of that technical foundation."*
 
-### Planned learning resources
-- OpenLearn – Digital Forensics
-- Alison – Introduction to Digital Forensics
-- Cisco and cybersecurity-related practical foundations
-- Additional self-directed DFIR resources
+**Last updated:** March 30, 2026
