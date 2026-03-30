@@ -1,6 +1,6 @@
 # 365 Days of Cybersecurity & Digital Forensics
 
-> **Patrícia Costa** | MSc Forensic Sciences (FMUP) | [LinkedIn](your-link) | [GitHub](https://github.com/patriciacostawd)
+> **Patrícia Costa** | MSc Forensic Sciences (FMUP) | [GitHub](https://github.com/patriciacostawd)
 
 ---
 
