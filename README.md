@@ -19,7 +19,7 @@ I combine a solid background in **Forensic Sciences** (ongoing MSc) with technic
 | **Cybersecurity Fundamentals** | 🟢 In progress | 0 / 180 | Cisco Junior Analyst | 0% |
 | **Digital Forensics** | 🟡 Planned | 0 / 180 | DFIR + OSINT + Tools | — |
 
-**Current day:** #5 (March 30, 2026)  
+**Current day:** #1 (May 18, 2026)  
 **Commitment:** 1h30/day, 6 days/week
 
 
@@ -79,7 +79,7 @@ I combine a solid background in **Forensic Sciences** (ongoing MSc) with technic
 
 ## 🔍 Phase 2 – Digital Forensics (180 days)
 
-**Status:** Planned (start: September 2026)  
+**Status:** Planned (start: November 2026)  
 **Objective:** Specialize in digital forensic investigation, combining my MSc in Forensic Sciences with technical skills.
 
 ### Study Areas
