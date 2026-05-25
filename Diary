@@ -36,10 +36,18 @@
   * Conducted a comprehensive active recall review of the concepts covered during the week (ISC2 Domain 1 and Cisco fundamentals).
 * **Notes:** Maintained the study habit with a short, highly-focused session to prioritize Master's thesis writing.
 
-### 🔹 Day 6 (Today - May 24)
+### 🔹 Day 6 (May 24)
 * **Focus:** Cisco Module 2, Linux Environments & ISC2 Domain 2
 * **Time Invested:** ~150 minutes 🚀🔥
 * **Activities:** * Successfully completed **Module 2** of the Cisco curriculum.
   * Hands-on Lab: Deployed a Linux operating system within a Virtual Machine (VM) environment and explored its Graphical User Interface (GUI).
   * Started **Domain 2** of the ISC2 Certified in Cybersecurity (CC) course, focusing on Incident Response, Business Continuity, and Disaster Recovery concepts.
 * **Key Takeaway:** Setting up virtual environments is a critical milestone for digital forensics. Additionally, learning ISC2's Incident Response framework helps me understand exactly where a forensic analyst fits into the chain of events after a cyber breach occurs.
+
+### 🔹 Day 7 (May 25)
+* **Focus:** Cisco Module 3, ISC2 Domain 3 (50%) & IBM Security Architecture
+* **Time Invested:** ~240 minutes 🚀
+* **Activities:** * Successfully completed **Module 3** of the Cisco Junior Cybersecurity Analyst curriculum.
+  * Progressed through **Domain 3 (Network Security & Access Controls)** of the ISC2 Certified in Cybersecurity (CC), reaching the 50% milestone.
+  * Watched the 5 video from the IBM Technology Security Architecture series.
+* **Key Takeaway:** Dominated network fundamentals and access control concepts today. Understanding how logical and physical access control systems work is foundational for DFIR, as auditing access logs is often the first step in investigating an incident or a data breach.
